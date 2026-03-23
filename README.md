@@ -74,7 +74,7 @@ Performed analysis to answer key business questions:
 ##  Dashboard Preview
 
 <p align="center">
-  <img src="dashboard_preview.jpg" width="900">
+  <img src="dashboard_preview.jpg" width="100%">
 </p>
 
 ##  Key Insights
