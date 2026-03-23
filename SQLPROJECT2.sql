@@ -140,7 +140,7 @@ ORDER BY month;
 
 
 
-#.How does the company’s revenue change month by month over time?
+#.How does the company’s profit change month by month over time?
 SELECT 
     DATE_FORMAT(Order_Date, '%Y-%m') AS month,
     ROUND(SUM(Profit),2) AS monthly_profit
