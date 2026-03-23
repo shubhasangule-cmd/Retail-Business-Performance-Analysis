@@ -45,13 +45,13 @@ The dataset contains:
 
 ## Project Workflow
 1️⃣ Database Creation
-Created database retail_db
-Imported dataset into MySQL
+- Created database retail_db
+- Imported dataset into MySQL
 
 2️⃣ Data Cleaning
-Checked for NULL values
-Identified duplicate Order IDs
-Ensured data consistency
+- Checked for NULL values
+- Identified duplicate Order IDs
+- Ensured data consistency
 
 3️⃣ Exploratory Data Analysis (SQL)
 Performed analysis to answer key business questions:
@@ -74,16 +74,17 @@ Performed analysis to answer key business questions:
 ##  Dashboard Preview
 
 <p align="center">
-  <img src="Business Sales & Revenue Analytics Dashboard_preview.png" width="900">
+  <img src="Business Sales & Revenue Analytics Dashboard.png" width="900">
 </p>
 
 ## Key Insights
-💰 Total Revenue exceeded 10Md
-📊 Total Profit reached 3.5M
-🌍 West region generated highest revenue
-🛍️ Electronics category contributed the most sales
-👥 Balanced performance across customer segments
-📅 Monthly revenue shows consistent trend
+- Total Revenue exceeded 10Md
+- Total Revenue exceeded 10Md
+- Total Profit reached 3.5M
+- West region generated highest revenue
+- Electronics category contributed the most sales
+- Balanced performance across customer segments
+- Monthly revenue shows consistent trend
 
 ## Skills Demonstrated
 
