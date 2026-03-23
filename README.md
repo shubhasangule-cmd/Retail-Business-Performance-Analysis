@@ -1,5 +1,5 @@
 
-Sales Performance Analysis Dashboard
+## Sales Performance Analysis Dashboard
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ This creates challenges in making data-driven decisions and optimizing overall b
 - Total Discount 
 
 
-##  Tools & Technologies
+## Tools & Technologies
 
 - SQL (MySQL)  
 - Microsoft Power BI  
@@ -74,10 +74,10 @@ Performed analysis to answer key business questions:
 ##  Dashboard Preview
 
 <p align="center">
-  <img src="Business Sales & Revenue Analytics Dashboard.png" width="900">
+  <img src="dashboard_preview.png" width="900">
 </p>
 
-## Key Insights
+##  Key Insights
 - Total Revenue exceeded 10Md
 - Total Revenue exceeded 10Md
 - Total Profit reached 3.5M
@@ -102,7 +102,7 @@ This project helps the business:
 - Track monthly trends to support forecasting and planning  
 - Enable data-driven decision-making through an interactive dashboard
 
- ## 💡 Business Recommendations
+##  Business Recommendations
 
 - Focus on high-performing regions like West  
 - Increase sales in top categories like Electronics  
