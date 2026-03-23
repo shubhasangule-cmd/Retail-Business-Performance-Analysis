@@ -130,7 +130,7 @@ SELECT
     SUM(Profit) AS total_profit
 FROM business_analytics_dataset_10000_rows;
 
-#How does the company’s revenue change month by month over time?
+#What are the monthly revenue trends and patterns over time?
 SELECT 
     DATE_FORMAT(Order_Date, '%Y-%m') AS month,
     SUM(Revenue) AS monthly_revenue
@@ -140,7 +140,7 @@ ORDER BY month;
 
 
 
-#.How does the company’s profit change month by month over time?
+#What are the monthly profit trends and patterns over time?
 SELECT 
     DATE_FORMAT(Order_Date, '%Y-%m') AS month,
     ROUND(SUM(Profit),2) AS monthly_profit
